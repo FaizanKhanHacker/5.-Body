@@ -1,14 +1,7 @@
-body {
-    min-width: 100%;
-    min-height: 100%;
-}
-
-
-
 .head {
     height: 150px;
-    width: 1585px;
-    background: url("https://github.com/FaizanKhanHacker/5.-Body/blob/main/Calisthenics.png?raw=true");
+    width: 1575px;
+    background: url(Calisthenics.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -35,11 +28,46 @@ footer {
     
 }
 h3 {
-    padding: 5px;
-    font-size: large;
-    display: flex;
-    align-items: center;
+    
     text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    background-color: rgb(196, 146, 38);
+    text-transform: unset;
 }
 
+p {
+    padding: 3px;
+    margin: 5px;
+    border: 10px solid black;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(189, 223, 18);
+
+
+}
+
+h5 {
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+
+.gogo {
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+
+* {
+        
+    text-align: center;
+}
 
