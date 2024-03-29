@@ -1,0 +1,42 @@
+.head {
+    height: 150px;
+    width: 1575px;
+    background: url(Calisthenics.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.options {
+    font-size: 25px;
+    color: tomato;
+    padding: 10px;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    float: right;
+}
+
+footer {
+    font-size: 29px;
+    display: flex;
+    align-items: right;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin: 15px;
+}
+
+.top1 {
+    display: flex;
+    margin: 5px;
+}
+
+.ttt1 {
+    margin: 5px;
+}
+
+.ttt2 {
+    font-size: 25px;
+    margin: 10px;
+
+}
