@@ -1,4 +1,6 @@
-let age = 20;
+var obj = {
+    name: "harsh"
+    age: 26,
+    city: "delhi"
+}
 
-let result = age >= 18 ? "adult" : "not adult";
-console.log(result);
