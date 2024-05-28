@@ -57,9 +57,14 @@
 }
 
 .footer {
-    background-color: black;
-    color: aqua;
     padding: 20px;
     font-size: 25px;
+    background-color: black;
+    animation: fistanimation 3s infinite;
+}
+
+@keyframes fistanimation {
+    from{color: red;}
+    to {color:aqua;}
 }
 
