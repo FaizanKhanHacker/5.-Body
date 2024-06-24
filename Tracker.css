@@ -1,0 +1,26 @@
+.options {
+    font-size: 20px;
+    color: rgb(253, 187, 57);
+    padding: 20px;
+    display: flex;
+    justify-content: right;
+    text-decoration: none;
+}
+
+.head {
+    height: 150px;
+    width: 1575px;
+    background: url(Calisthenics.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.div1 {
+    height: 1180px;
+    width: 100%;
+    background-color: black;
+    font-size: 5rem;
+    text-align: center;
+    
+}

@@ -19,7 +19,7 @@
 
 .chest1 {
     background-color:rgb(162, 49, 49);  
-    color: rgb(222, 215, 82);
+    color: rgb(0, 0, 0);
     font-size: 3em;
     margin-top: 5px;
     margin-right: 18px;
@@ -31,12 +31,90 @@
 
 div > .video {
     margin-top: -25px;
-    background-color: yellow;
+    margin-right: 19px;
+    background-color: rgb(3, 5, 0);
     display: flex;
 }
 
 .fonts { 
     margin-left: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 6rem;
+    background-color: rgb(98, 223, 121);
+    align-items: center;
+}
+
+.vidback2 {
     margin-top: -25px;
-    font-size: 2em;
+    margin-right: 19px;
+    background-color: rgb(3, 5, 0);
+    display: flex;
+    margin-top: 5px;
+}
+
+.vidback2 > .div2 {
+    margin-left: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 6rem;
+    background-color: tomato;
+    align-items: center;
+}
+
+.vid3 {
+    margin-top: -25px;
+    margin-right: 19px;
+    background-color: rgb(3, 5, 0);
+    display: flex;
+    margin-top: 5px;
+}
+
+.vid3 > .div3{
+    margin-left: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 7rem;
+    background-color: rgb(207, 227, 50);
+    align-items: center;
+}
+
+
+.vid4 {
+    margin-top: -25px;
+    margin-right: 19px;
+    background-color: rgb(3, 5, 0);
+    display: flex;
+    margin-top: 5px;
+}
+
+.vid4 > .div4{
+    margin-left: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 7rem;
+    background-color: rgb(104, 84, 250);
+    align-items: center;
+}
+
+.vid5 {
+    margin-top: -25px;
+    margin-right: 19px;
+    background-color: rgb(3, 5, 0);
+    display: flex;
+    margin-top: 5px;
+}
+
+.vid5 > .div5{
+    margin-left: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 7rem;
+    background-color: rgb(218, 74, 196);
+    align-items: center;
 }
